@@ -18,3 +18,5 @@
 - [Windows Offline 64-bit](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=235727_2787e4a523244c269598db4e85c51e0c)
 
 ### Also see [LICENCE](https://raw.githubusercontent.com/Faizanf33/IMS/master/LICENCE?token=Adym7oma6AA8pIXaEzn7UdP21bfp66Uaks5casWXwA%3D%3D)
+
+### [IMS BLOG](https://faizanf33.wordpress.com)
