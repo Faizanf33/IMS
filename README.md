@@ -1,6 +1,5 @@
 # IMS (Invoice Management System)
 - A software designed to keep an eye on your incoming and outgoing of a business point.
-- [Download here](https://github.com/Faizanf33/IMS/archive/v1.0.zip)
 
 ## Specification(s)
 - Calculate bill for costumer(s).
